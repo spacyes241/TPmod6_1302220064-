@@ -5,13 +5,32 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Create a SayaTubeVideo object with title
-        SayaTubeVideo video = new SayaTubeVideo("Tutorial Design By Contract Farrel Haykal");
+        // state awal untuk video berisikan null
+        SayaTubeVideo video = null;
 
-        // Increase play count
-        video.IncreasePlayCount(1);
-
-        // Print video details
-        video.publicVideoDetails();
+        // Design Contract
+        try
+        {
+            // Prekondisi
+            video = new SayaTubeVideo("Tutorial Design By Contract - Farrel Haykal G");
+            for (int i = 0; i < 10000000; i++)
+            {
+                video.IncreasePlayCount(2);
+            }
+        }
+        // tes Exception
+        catch (Exception tes)
+        {
+            Console.WriteLine("Error: " + tes.Message);
+        }
+        finally
+        {
+            // printoutput jika tidak terdeteksi error
+            if (video != null)
+            {
+                video.publicVideoDetails();
+            }
+        }
     }
 }
+    
