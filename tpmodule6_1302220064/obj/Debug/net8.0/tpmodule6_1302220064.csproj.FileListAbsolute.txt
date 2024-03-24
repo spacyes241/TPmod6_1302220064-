@@ -1,0 +1,15 @@
+E:\Materi\SEMESTER 4\Praktikum KPL\tpmodule6_1302220064\tpmodule6_1302220064\bin\Debug\net8.0\tpmodule6_1302220064.exe
+E:\Materi\SEMESTER 4\Praktikum KPL\tpmodule6_1302220064\tpmodule6_1302220064\bin\Debug\net8.0\tpmodule6_1302220064.deps.json
+E:\Materi\SEMESTER 4\Praktikum KPL\tpmodule6_1302220064\tpmodule6_1302220064\bin\Debug\net8.0\tpmodule6_1302220064.runtimeconfig.json
+E:\Materi\SEMESTER 4\Praktikum KPL\tpmodule6_1302220064\tpmodule6_1302220064\bin\Debug\net8.0\tpmodule6_1302220064.dll
+E:\Materi\SEMESTER 4\Praktikum KPL\tpmodule6_1302220064\tpmodule6_1302220064\bin\Debug\net8.0\tpmodule6_1302220064.pdb
+E:\Materi\SEMESTER 4\Praktikum KPL\tpmodule6_1302220064\tpmodule6_1302220064\obj\Debug\net8.0\tpmodule6_1302220064.GeneratedMSBuildEditorConfig.editorconfig
+E:\Materi\SEMESTER 4\Praktikum KPL\tpmodule6_1302220064\tpmodule6_1302220064\obj\Debug\net8.0\tpmodule6_1302220064.AssemblyInfoInputs.cache
+E:\Materi\SEMESTER 4\Praktikum KPL\tpmodule6_1302220064\tpmodule6_1302220064\obj\Debug\net8.0\tpmodule6_1302220064.AssemblyInfo.cs
+E:\Materi\SEMESTER 4\Praktikum KPL\tpmodule6_1302220064\tpmodule6_1302220064\obj\Debug\net8.0\tpmodule6_1302220064.csproj.CoreCompileInputs.cache
+E:\Materi\SEMESTER 4\Praktikum KPL\tpmodule6_1302220064\tpmodule6_1302220064\obj\Debug\net8.0\tpmodule6_1302220064.sourcelink.json
+E:\Materi\SEMESTER 4\Praktikum KPL\tpmodule6_1302220064\tpmodule6_1302220064\obj\Debug\net8.0\tpmodule6_1302220064.dll
+E:\Materi\SEMESTER 4\Praktikum KPL\tpmodule6_1302220064\tpmodule6_1302220064\obj\Debug\net8.0\refint\tpmodule6_1302220064.dll
+E:\Materi\SEMESTER 4\Praktikum KPL\tpmodule6_1302220064\tpmodule6_1302220064\obj\Debug\net8.0\tpmodule6_1302220064.pdb
+E:\Materi\SEMESTER 4\Praktikum KPL\tpmodule6_1302220064\tpmodule6_1302220064\obj\Debug\net8.0\tpmodule6_1302220064.genruntimeconfig.cache
+E:\Materi\SEMESTER 4\Praktikum KPL\tpmodule6_1302220064\tpmodule6_1302220064\obj\Debug\net8.0\ref\tpmodule6_1302220064.dll
